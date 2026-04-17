@@ -1,20 +1,30 @@
-# Moo Wars
+# Moo Wars – Arcade Shooter
 
-## Credits
+Team university project developed in C++.
 
-**Lead Developer & Technical Architect**  
-*Felix Atanasescu*  
-Designed and implemented the entire codebase, including engine structure, gameplay systems, UI, and AI. Led the technical direction and architecture of the project.
+A wave-based arcade shooter featuring enemy spawning, scoring, player lives, HUD systems, and fast-paced gameplay.
 
-**Support Programmer**  
-*Andrei Kotlyarenko*  
-Assisted with implementing features and gameplay elements using the established systems.
+## My Role
 
-**Support Programmer & QA Tester**  
-*Alina Atanasescu*  
-Contributed smaller code additions and actively participated in playtesting and debugging.
+Lead programmer in a four-person team.
 
-**Project Leader, Game Designer & Visual Artist**  
-*Radu Buzatu*  
-Provided concept design, visual assets, and artistic direction.
+Responsible for:
 
+* Core gameplay systems
+* Enemy wave logic
+* Score system
+* Player state / lives
+* HUD implementation
+* Bug fixing and polishing
+* Technical documentation
+
+## Tech Stack
+
+* C++
+* SFML
+* Git
+* Doxygen
+
+## Outcome
+
+Delivered successfully to deadline with stable gameplay and completed documentation.
